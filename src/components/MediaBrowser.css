@@ -1,0 +1,30 @@
+.media-browser {
+    padding: 20px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.topbar input {
+    padding: 8px 12px;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.media-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.media-table th, .media-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.media-table th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+}
